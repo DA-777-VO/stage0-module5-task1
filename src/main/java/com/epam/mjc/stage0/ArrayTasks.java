@@ -96,5 +96,10 @@ public class ArrayTasks {
         return array;
     }
 
+    public int[][] sortRaggedArray(int[][] arr) {
+
+        return arr;
+    }
+
 
 }
