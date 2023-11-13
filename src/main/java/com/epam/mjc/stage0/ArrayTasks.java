@@ -1,7 +1,5 @@
 package com.epam.mjc.stage0;
 
-import java.util.Arrays;
-
 public class ArrayTasks {
 
     public String[] seasonsArray() {
